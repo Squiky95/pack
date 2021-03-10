@@ -2,4 +2,4 @@
 
 Templates folder for templates
 
-Pack folder for the atual pack
+Pack folder for the pack
